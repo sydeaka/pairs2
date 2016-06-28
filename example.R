@@ -1,8 +1,4 @@
 
-## Clear workspace
-rm(list=ls())
-
-
 
 ## Generate sample dataset
 set.seed(100)
